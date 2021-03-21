@@ -1,0 +1,21 @@
+{
+  "name": "aula_node_postgres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.1"
+
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "bugs": {
+  },
+  "description": ""
+}
